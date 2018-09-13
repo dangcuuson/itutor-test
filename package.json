@@ -1,0 +1,10 @@
+{
+  "name": "test-itutor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pula Capital",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "0.4.15"
+  }
+}
