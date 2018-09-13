@@ -40,4 +40,4 @@
 5) In line 5 of the `TSUBQ.MAT`. What is #1 and #2? What do they mean? Detail as much as you can.
 
 
-## Send it back to: igor@pulacapital.com.au
+## Send it back to: jack.dang@itutorworld.com.au
